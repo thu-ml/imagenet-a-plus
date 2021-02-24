@@ -4,6 +4,9 @@ We introduce [ImageNet-A-Plus, a new natural adversarial examples dataset](https
 
 __[Download the natural adversarial example dataset ImageNet-A-Plus here](https://drive.google.com/file/d/1kriPFOkWNBrVe26fQf7xhITm4TXaghev).__
 
+Some examples in ImageNet-A-Plus are shown below:
+<img align="center" src="example.jpeg">
+
 ## Citation
 
 
